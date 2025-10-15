@@ -1,1 +1,1 @@
-# GeTH-Imputation
+# SEAThai-Impute
